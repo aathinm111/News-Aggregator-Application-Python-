@@ -77,7 +77,3 @@ This project is suitable for Python beginners and intermediate learners who want
 📌 Conclusion
 
 The News Aggregator Application is a practical Python project that combines API usage with graphical user interface development. It provides a clean and simple way to consume real-time news while showcasing important Python programming concepts.
-
----
-
-Just say 🔥
